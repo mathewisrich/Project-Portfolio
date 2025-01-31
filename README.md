@@ -34,6 +34,38 @@ Created a **user-friendly, responsive React UI** with a **2-4 side-by-side grid*
 
 
 
+**Balanced Life NGO Website Template**  
+
+Developed a **full-stack web app template** using **JavaScript, HTML, and CSS** to serve as an NGO website solution, supporting organizations in Uganda. Designed for easy deployment and customization, allowing NGOs to create and manage their websites efficiently.  
+
+Used **Apache Cordova** for cross-platform development and **Firebase** for **real-time data integration, user authentication, cloud notifications, and storage**. Currently building a no-code platform for NGOs, leveraging **Webflow Multisite** for deployment and **React.js and Node.js** for custom development.  
+
+**UI Previews**  
+- **"Who We Are" Section (Website Sample UI)**  
+  ![Who We Are UI](https://github.com/mathewisrich/Project-Portfolio/blob/main/Ui%20sample%20who%20we%20are.png)  
+
+- **Login Options (Google, Facebook, Email Authentication)**  
+  ![Login UI](https://github.com/mathewisrich/Project-Portfolio/blob/main/login%20using%20google%20and%20emal.png)  
+
+- **Firebase Authentication Testing (Email Login Verification)**  
+  ![Firebase Authentication](https://github.com/mathewisrich/Project-Portfolio/blob/main/firebase%20authentication.png)  
+
+- **Donation Integration (Mobile Money & PayPal Support)**  
+  ![Donation UI](https://github.com/mathewisrich/Project-Portfolio/blob/main/donateui.png)  
+  ![Donation UI 2](https://github.com/mathewisrich/Project-Portfolio/blob/main/donate%20ui.png)  
+
+**Tech Stack**  
+- **Languages:** JavaScript, HTML, CSS  
+- **Frameworks & Tools:** React.js, Node.js, Webflow Multisite, Apache Cordova  
+- **Database & Authentication:** Firebase (Real-time Database, Authentication, Cloud Storage)  
+- **Payment Integration:** Mobile Money, PayPal  
+
+**Connect**  
+[LinkedIn Profile](https://linkedin.com/in/sekanjako-mathew)  
+
+
+
+
 # **Samalie Bot – AI Coding Assistant**
 
 Designed and launched Samalie Bot, a generative AI tool that develops software using **uconnected plugged generative AI models, including DALL·E 2, GPT-3, and Whisper v2**. It provides coding explanations, pseudocode, and UML diagrams across multiple languages like **Python, JavaScript, and C++, and is used by more than 10 users.**
