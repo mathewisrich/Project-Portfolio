@@ -15,3 +15,5 @@ User Query Input
 
 Generated Code Output 
   ![Generated Code](https://github.com/mathewisrich/Project-Portfolio/blob/main/samalie%20test.png)  
+Psuedo code ouput
+(https://github.com/mathewisrich/Project-Portfolio/blob/main/samalie%20test%20pusedo.png)
