@@ -36,7 +36,7 @@ Created a **user-friendly, responsive React UI** with a **2-4 side-by-side grid*
 
 # **Samalie Bot – AI Coding Assistant**
 
-Designed and launched Samalie Bot, a generative AI tool that develops software using **uconnected plugged generative AI models, including DALL·E 2, GPT-3, and Whisper v2**. It provides coding explanations, pseudocode, and UML diagrams across multiple languages like **Python, JavaScript, and C++, and is used by more than 10 users.  
+Designed and launched Samalie Bot, a generative AI tool that develops software using **uconnected plugged generative AI models, including DALL·E 2, GPT-3, and Whisper v2**. It provides coding explanations, pseudocode, and UML diagrams across multiple languages like **Python, JavaScript, and C++, and is used by more than 10 users.**
 
 **UI Previews**
 
