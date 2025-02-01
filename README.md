@@ -92,7 +92,7 @@ Designed and launched **Samalie Bot**, a generative AI tool that develops softwa
 
 ### **Tech Stack**  
 - **AI Models:** DALL·E 2, GPT-3, Whisper v2  
-- **Languages:** Python, JavaScript, C++  
+- **Languages:** Python, JavaScript, C++ ,Rust, Ruby,Go, Kotlin,Java, TypeScript, Swift
 - **Tools:** Brancher AI
 
 ---
