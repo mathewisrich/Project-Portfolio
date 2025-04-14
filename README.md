@@ -1,16 +1,47 @@
-# Project-Portfolio  
+# Project-Portfolio
 
 🚀 **My Developer Portfolio** – A collection of my software, AI, and web development projects.  
 
 📌 **Featured Projects:**  
-- React Bible App – A self-hosted scripture archive with REST API and AWS deployment.  
-- Balanced Life NGO Website – A no-code website builder template for NGOs.  
-- Samalie Bot – AI-powered coding assistant with code generation and debugging.  
-- Walkie-Talkie App – A real-time voice communication platform.  
+- **Akebulan AI – Indigenous Language AI Model** *(2024–Present)*  
+- **React Bible App** – A self-hosted scripture archive with REST API and AWS deployment.  
+- **Balanced Life NGO Website** – A no-code website builder template for NGOs.  
+- **Samalie Bot** – AI-powered coding assistant with code generation and debugging.  
+- **Walkie-Talkie App** – A real-time voice communication platform.  
 
 🔹 **Tech Stack:** Python, Java, C++, JavaScript, React, React Native, Node.js, Firebase, Cordova, Vite.  
 
 🌍 **Connect:** [LinkedIn Profile](https://linkedin.com/in/sekanjako-mathew)  
+
+---
+
+## **Akebulan AI – Indigenous Language AI Development**
+
+Developing **Akebulan AI**, an open-language model trained to understand and generate text in **Luganda**, with long-term plans to support other Bantu and African languages.
+
+- Fine-tuned **Mistral-7B** with **QLoRA** for efficient training on **RunPod RTX A6000** and **Google Cloud T4/A100** GPUs.  
+- Engineered a **custom SentencePiece tokenizer** (ABLT) using a linguistically-aware corpus of 100K+ Luganda sentences.  
+- Performed **morphological analysis, syllable distribution**, and **OOV rate optimization** to build a tokenizer tailored for agglutinative Bantu syntax.  
+- Enabled **token-level importance tracking** and **translation alignment** using `HF Transformers`, `Datasets`, `PEFT`, and `bitsandbytes`.  
+
+### **Screenshots and Sample Output**
+
+- **Model Training Interface**  
+  ![Training](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.38.22%20PM.png)
+
+- **Tokenizer Breakdown and Token IDs**  
+  ![Token IDs](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.39.10%20PM.png)
+
+- **Multilingual Tokenization Preview**  
+  ![Tokenizer Compare](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.39.45%20PM.png)
+
+- **Corpus Sample and Alignment**  
+  ![Corpus Preview](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.46.00%20PM.png)
+
+- **GitHub Upload Preview**  
+  ![Upload](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.47.47%20PM.png)
+
+> Project is ongoing. This model is expected to support translation, summarization, and even coding explanations in Luganda using inherited capabilities of pretrained LLMs.
 
 ---
 
@@ -72,7 +103,7 @@ Developed a **full-stack web app template** using **JavaScript, HTML, and CSS** 
 
 ## **Samalie Bot – AI Coding Assistant**  
 
-Designed and launched **Samalie Bot**, a generative AI tool that develops software using **uconnected plugged generative AI models**, including **DALL·E 2, GPT-3, and Whisper v2**.  
+Designed and launched **Samalie Bot**, a generative AI tool that develops software using **connected generative AI models**, including **DALL·E 2, GPT-3, and Whisper v2**.  
 - Provides **coding explanations, pseudocode, and UML diagrams** across multiple languages like **Python, JavaScript, and C++**.  
 - Built using **Brancher AI** to connect multiple AI models for seamless software development.  
 - Currently used by **10+ users** for coding assistance.  
@@ -92,11 +123,11 @@ Designed and launched **Samalie Bot**, a generative AI tool that develops softwa
 
 ### **Tech Stack**  
 - **AI Models:** DALL·E 2, GPT-3, Whisper v2  
-- **Languages:** Python, JavaScript, C++ ,Rust, Ruby,Go, Kotlin,Java, TypeScript, Swift
-- **Tools:** Brancher AI
+- **Languages:** Python, JavaScript, C++, Rust, Ruby, Go, Kotlin, Java, TypeScript, Swift  
+- **Tools:** Brancher AI  
 
 ---
 
 ### **Connect & Explore**  
 📌 **LinkedIn:** [linkedin.com/in/sekanjako-mathew](https://linkedin.com/in/sekanjako-mathew)  
-📌 **GitHub Portfolio:** [github.com/mathewisrich/Project-Portfolio](https://github.com/mathewisrich/Project-Portfolio)  
+📌 **GitHub Portfolio:** [github.com/mathewisrich/Project-Portfolio](https://github.com/mathewisrich/Project-Portfolio)
