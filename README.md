@@ -36,10 +36,8 @@ Developing **Akebulan AI**, an open-language model trained to understand and gen
   ![Tokenizer Compare](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.39.45%20PM.png)
 
 - **Corpus Sample and Alignment**  
-  ![Corpus Preview](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.46.00%20PM.png)
+  ![Corpus Preview](https://github.com/mathewisrich/Project-Portfolio/blob/main/Screenshot%202025-04-14%20at%203.11.48%20PM.png)
 
-- **GitHub Upload Preview**  
-  ![Upload](https://github.com/Psalms23Wave/Akebulan-Ai/blob/main/models/Screenshot%202025-04-14%20at%202.47.47%20PM.png)
 
 > Project is ongoing. This model is expected to support translation, summarization, and even coding explanations in Luganda using inherited capabilities of pretrained LLMs.
 
